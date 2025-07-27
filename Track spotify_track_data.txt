@@ -1,2 +1,0 @@
-Track Name,Artist,Album,Popularity,Duration (minutes)
-Thaensudare - From "Lover",Sean Roldan,Thaensudare (From "Lover"),54,3.608333
